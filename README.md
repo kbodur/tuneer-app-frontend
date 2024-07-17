@@ -4,7 +4,7 @@ Tuner App is a full-stack application that allows users to manage their song col
 
 <br/>
 <p align="center">
-    <img width="80%" src="./src/Components/DBA6D932-7BBC-4931-9C14-300F327B2C16.jpeg">
+    <img width="80%" src="./src/DBA6D932-7BBC-4931-9C14-300F327B2C16.jpeg">
 </p>
 <br/>
 
@@ -19,7 +19,7 @@ Tuner App is a full-stack application that allows users to manage their song col
 
 <br/>
 <p align="center">
-    <img width="80%" src="./src/Components/42C48FC8-F205-4C42-93D8-06307FE8A7D0.jpeg">
+    <img width="80%" src="./src/42C48FC8-F205-4C42-93D8-06307FE8A7D0.jpeg">
 </p>
 <br/>
 
