@@ -2,6 +2,12 @@
 
 Tuner App is a full-stack application that allows users to manage their song collection. Users can view, add, edit, and delete songs, as well as mark their favorite songs.
 
+<br/>
+<p align="center">
+    <img width="80%" src="./src/Components/DBA6D932-7BBC-4931-9C14-300F327B2C16.jpeg">
+</p>
+<br/>
+
 ## Features
 
 - **CRUD Operations**: Create, Read, Update, Delete songs.
@@ -10,6 +16,12 @@ Tuner App is a full-stack application that allows users to manage their song col
 - **Page Transitions**: Smooth page transitions using `react-transition-group`.
 - **404 Page**: Custom 404 page for unknown routes.
 - **Confirmation Prompt**: Confirmation prompt before deleting a song.
+
+<br/>
+<p align="center">
+    <img width="80%" src="./src/Components/42C48FC8-F205-4C42-93D8-06307FE8A7D0.jpeg">
+</p>
+<br/>
 
 ## Table of Contents
 
